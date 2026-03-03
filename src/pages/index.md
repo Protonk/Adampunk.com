@@ -21,7 +21,6 @@ I build and maintain the following with/via/because/despite agentic coding. A re
 
 * *[PAWL](https://github.com/Protonk/PAWL)** is a working exploded view diagram of the macOS Seatbelt sandbox created through mechanical exercise of the operating system. The aim is to make the sandbox legible end-to-end, from policy to observed behavior. About as hard as it looks.
 * **[PolicyWitness](https://github.com/Protonk/PolicyWitness)** loads a profile record (SBPL + entitlements) and a probe and reports runtime sandbox decisions on macOS reliably. Harder than it looks.
-* **[fencerunner](https://github.com/Protonk/fencerunner)** is a Rust CLI that turns a folder of shell scripts into a strict, schema-validated NDJSON interface. Used in *PAWL* for probe generation and orchestration.
 
 *Interpretability and robustness of large language models:*
 
