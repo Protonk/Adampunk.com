@@ -65,13 +65,14 @@ Courses taught:
 * Keyes, Oscar K. and Hyland, Adam (2023). [Hands Are Hard: Unlearning How We Talk About Machine Learning in the Arts](https://digitalscholarship.unlv.edu/tradition_innovations/vol1/iss1/4/). *Tradition Innovations in Arts, Design, and Media Higher Education*, 1(1)
 * Hyland, Adam and Ali, Murtaza (2024). [Tinker or Transfer? A Tale of Two Techniques in Teaching Visualization](https://arxiv.org/abs/2404.10967)
 * Charlotte P. Lee and Adam Hyland. (2025). Floating Points. In Proceedings of the sixth decennial Aarhus conference: Computing X Crisis (AAR '25). ACM, 305–313. [https://doi.org/10.1145/3744169.3744191](https://doi.org/10.1145/3744169.3744191)
-* Hyland, Adam (2026). [Paintapu's field: A unified geometric explanation of logarithmic computation](/documents/landfall.pdf)
+
 
 ---
 
 *Other:*
 
 * [Missing on the net](/topics/missing) — documents that should be findable, but aren’t.
+* Hyland, Adam (2026). [Sailing by Paintapu's field](/documents/landfall.pdf)
 
 ---
 
