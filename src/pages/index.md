@@ -72,7 +72,7 @@ Courses taught:
 *Other:*
 
 * [Missing on the net](/topics/missing) — documents that should be findable, but aren’t.
-* Hyland, Adam (2026). [Landfall](/documents/Landfall.pdf)
+* Hyland, Adam (2026). [Landfall](/documents/landfall.pdf)
 
 ---
 
