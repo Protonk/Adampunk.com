@@ -21,6 +21,7 @@ I build and maintain the following with/via/because/despite agentic coding. A re
 
 * *[PAWL](https://github.com/Protonk/PAWL)** is a working exploded view diagram of the macOS Seatbelt sandbox created through mechanical exercise of the operating system. The aim is to make the sandbox legible end-to-end, from policy to observed behavior. About as hard as it looks.
 * **[PolicyWitness](https://github.com/Protonk/PolicyWitness)** loads a profile record (SBPL + entitlements) and a probe and reports runtime sandbox decisions on macOS reliably. Harder than it looks.
+* **[BIDDER](https://github.com/Protonk/BIDDER)** generates number sequences with algebraically exact leading-digit uniformity by encoding Arithmetic Congruence Monoids as Champernowne reals. A keyed Speck permutation layers disorder on top without breaking the proof. Easier than it looks, actually.
 
 *Interpretability and robustness of large language models:*
 
