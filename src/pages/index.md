@@ -25,14 +25,14 @@ I build and maintain the following with/via/because/despite agentic coding. A re
 
 *Interpretability and robustness of large language models:*
 
-With [Ruoxi Shang](https://ruoxishang.com), I looked at what it means to treat LLMs (GPT-4, Llama, etc.) as trustworthy interfaces to computing. Interpretability is about what counts as an explanation; robustness is about how explanations and behavior degrade under manipulation. One of our products was [Interpreting Robustness](https://docs.google.com/spreadsheets/d/15-f4mxW3niQ3myJAo3V0unLiFlbG9ru4HYthBh6eWbk/edit?usp=sharing) — a Spring 2023 course at the University of Washington connecting interpretability and robustness across a literature that treated separately. I don't like to crow about my own work but students in this class saw 2026 in advance.
+With [Ruoxi Shang](https://ruoxishang.com), I looked at what it means to treat LLMs (GPT-4, Llama, etc.) as trustworthy interfaces to computing. One of our products was [Interpreting Robustness](https://docs.google.com/spreadsheets/d/15-f4mxW3niQ3myJAo3V0unLiFlbG9ru4HYthBh6eWbk/edit?usp=sharing) — a Spring 2023 course at the University of Washington connecting interpretability and robustness across a literature that treated them separately. I don't like to crow about my own work but students in this class saw 2026 in advance.
 
 *Computer arithmetic:*
 
 I’m interested in how arithmetic becomes infrastructure: negotiated, standardized, embedded into libraries and interfaces, and then treated as “just how computers work.” I like teaching the point where the math ends and the coordination begins.
 
-* **The “Fast” Inverse (Reciprocal) Square Root:** In 2009 I wrote the English Wikipedia article about a famously terse bit of code. It accidentally became famous so now I maintain [0x5f37642f.com](https://0x5f37642f.com), a guided tour through the trick, its folklore, and what it reveals about floating-point arithmetic as well as **[frsrr](https://github.com/Protonk/frsrr)**, an R package which parallelizes and rigorously instruments the 4 lines of C comprising the Fast (Inverse|Reciprocal) Square Root. 
-* I’m co-secretary for the **IEEE 754-2029** working group governing binary and decimal floating point excluding the machine-learning formats covered under P3109.
+* **The “Fast” Inverse (Reciprocal) Square Root:** In 2009 I wrote the English Wikipedia article about a famously terse bit of code. It accidentally became famous so now I maintain [0x5f37642f.com](https://0x5f37642f.com), a guided tour through the trick, its folklore, and what it reveals about floating-point arithmetic as well as **[frsrr](https://github.com/Protonk/frsrr)**, an R package which parallelizes and rigorously instruments the 4 lines of C comprising the Fast (Inverse|Reciprocal) Square Root.
+* I was secretary of the **IEEE 754** study group and co-secretary of the working group from 2024–2026, governing binary and decimal floating point excluding the machine-learning formats covered under P3109.
 
 
 *AI image generation:*
