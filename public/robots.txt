@@ -117,3 +117,5 @@ User-agent: *
 # We allow all by default, assuming any bot not listed above plays by the rules.
 # Standard search engine bots (Google, Bing, etc.) and legitimate services are welcome.
 Allow: /
+
+Sitemap: https://adampunk.com/sitemap-index.xml
