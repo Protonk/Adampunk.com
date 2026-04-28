@@ -70,6 +70,12 @@ Courses taught:
 
 ---
 
+*Math:*
+
+* [Euler's Identity: Five Questions](/documents/eulers-identity-five-questions.pdf)
+
+---
+
 *Other:*
 
 * [Missing on the net](/topics/missing) — documents that should be findable, but aren’t.
