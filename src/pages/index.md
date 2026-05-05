@@ -25,7 +25,7 @@ I build and maintain the following with/via/because/despite agentic coding. A re
 
 *Interpretability and robustness of large language models:*
 
-With [Ruoxi Shang](https://ruoxishang.com), I looked at what it means to treat LLMs (GPT-4, Llama, etc.) as trustworthy interfaces to computing. One of our products was [Interpreting Robustness](https://docs.google.com/spreadsheets/d/15-f4mxW3niQ3myJAo3V0unLiFlbG9ru4HYthBh6eWbk/edit?usp=sharing) — a Spring 2023 course at the University of Washington connecting interpretability and robustness across a literature that treated them separately. I don't like to crow about my own work but students in this class saw 2026 in advance.
+With [Ruoxi Shang](https://ruoxishang.com), I looked at what it means to treat LLMs (GPT-4, Llama, etc.) as trustworthy interfaces to computing. One of our products was Interpreting Robustness  — a Spring 2023 course at the University of Washington connecting interpretability and robustness across a literature that treated them separately. I don't like to crow about my own work but students in this class saw 2026 in advance.
 
 *Computer arithmetic:*
 
@@ -82,4 +82,4 @@ Courses taught:
 
 ---
 
-<sup>*</sup>: Don't believe me(?|,) just watch.
+<sup>*</sup>: Don't believe me(?|,) just watch. It's private now due for safety. Back soon. 
